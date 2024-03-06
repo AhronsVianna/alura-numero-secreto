@@ -1,4 +1,16 @@
-temp/
+git log
+
+b332813 (HEAD -> main, origin/main) mudanças html e gitignore
+4239388 arrumando erros
+2ba641e apagando titulo
+edf88f2 resovendo erro no html
+5f84e15 resolvendo conflito
+946a1d0 voltando ao inicio do projeto
+068e688 Deixando o jogo mais facil
+1de469a alterando limite limite para 100
+c884357 Projeto inicial
+
+
 # exemplos de arquivos
 # temp/
 # arquivo.txt
